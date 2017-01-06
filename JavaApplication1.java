@@ -1,6 +1,5 @@
 
 package PalmieriMarcoMontaniTpsit4INA;
-//import java.io.*;
 
 public class JavaApplication1 {
 
